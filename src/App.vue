@@ -96,7 +96,6 @@ export default {
       quill,
       getContent,
       editor,
-      clipContent,
     };
   },
 };
